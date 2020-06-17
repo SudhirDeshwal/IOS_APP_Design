@@ -7,10 +7,10 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--View Controller-->
+        <!--Edit Profile-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="IOS_APP_Design" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="Edit Profile" id="BYZ-38-t0r" customClass="ViewController" customModule="IOS_APP_Design" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -87,10 +87,10 @@
             </objects>
             <point key="canvasLocation" x="137.68115942028987" y="138.61607142857142"/>
         </scene>
-        <!--View Controller-->
+        <!--Inside Chat-->
         <scene sceneID="t7q-Eb-kFl">
             <objects>
-                <viewController id="4SL-IW-chm" sceneMemberID="viewController">
+                <viewController title="Inside Chat" id="4SL-IW-chm" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Edp-xq-U6m">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -143,10 +143,10 @@
             </objects>
             <point key="canvasLocation" x="800.00000000000011" y="147.99107142857142"/>
         </scene>
-        <!--View Controller-->
+        <!--Self Profile 1-->
         <scene sceneID="9Cr-me-qaH">
             <objects>
-                <viewController id="pBu-YT-6HY" sceneMemberID="viewController">
+                <viewController title="Self Profile 1" id="pBu-YT-6HY" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="X6z-q7-15h">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -241,10 +241,10 @@
             </objects>
             <point key="canvasLocation" x="1453.6231884057972" y="148.66071428571428"/>
         </scene>
-        <!--View Controller-->
+        <!--Self Profile 2-->
         <scene sceneID="rAH-Jc-7OM">
             <objects>
-                <viewController id="2Bc-6W-Mwm" sceneMemberID="viewController">
+                <viewController title="Self Profile 2" id="2Bc-6W-Mwm" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="gQb-sU-U9F">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -361,10 +361,10 @@
             </objects>
             <point key="canvasLocation" x="2195.6521739130435" y="148.66071428571428"/>
         </scene>
-        <!--View Controller-->
+        <!--Chat box-->
         <scene sceneID="h0Z-H8-EQ1">
             <objects>
-                <viewController id="nnq-RY-F4v" sceneMemberID="viewController">
+                <viewController title="Chat box" id="nnq-RY-F4v" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="aL3-gM-j39">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -476,10 +476,10 @@
             </objects>
             <point key="canvasLocation" x="2876.811594202899" y="150"/>
         </scene>
-        <!--View Controller-->
+        <!--Home-->
         <scene sceneID="ZEh-ph-3Li">
             <objects>
-                <viewController id="0fb-Gs-Nxf" sceneMemberID="viewController">
+                <viewController title="Home" id="0fb-Gs-Nxf" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="vgO-p6-PVe">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -526,10 +526,10 @@
             </objects>
             <point key="canvasLocation" x="3557.971014492754" y="150.66964285714286"/>
         </scene>
-        <!--View Controller-->
+        <!--Filters-->
         <scene sceneID="1Fl-0n-9L5">
             <objects>
-                <viewController id="akw-Iu-qpG" sceneMemberID="viewController">
+                <viewController title="Filters" id="akw-Iu-qpG" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="99Z-2h-arL">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
